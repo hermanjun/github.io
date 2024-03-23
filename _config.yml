@@ -16,7 +16,7 @@ timezone:
 
 title: 赫曼君个人说明书 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 你好～欢迎你打开「赫曼君个人说明书」。这里是「我」尝试探索自我，并向外部世界介绍自己的地方，如果你想认识我，这里有关于「我」的一切。 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
